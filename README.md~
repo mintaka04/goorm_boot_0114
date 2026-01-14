@@ -1,0 +1,8 @@
+readme 를 수정합니다! 수정수정
+<<<<<<< HEAD
+여긴 또 main 브랜치인데.
+또다시 수정합니다....
+=======
+
+conflict 실습용-여긴 conflict 브랜치입니다
+>>>>>>> feature/conflict
